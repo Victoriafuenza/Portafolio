@@ -2,7 +2,7 @@
 
 Hola, Bienvenido a mi proyecto de portafolio
 
-![imagen](http://127.0.0.1:5500/index.html>
+![imagen](http://127.0.0.1:5500/index.html<>
 
 ## Herramientas Utilizadas:
 
